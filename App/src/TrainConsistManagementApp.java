@@ -56,6 +56,7 @@ public class TrainConsistManagementApp {
                                         || g.cargo.equalsIgnoreCase("Petroleum")
                         );
 
+
         System.out.println("\nSafety Compliance Status: " + isSafe);
 
         if (isSafe) {
