@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * Demonstrates Stream API filtering based on capacity
  * without modifying the original collection.
  *
- * Author: Vineet Seth
+ * Author: RISHIKA RAJ
  * Version: 8.0
  */
 
